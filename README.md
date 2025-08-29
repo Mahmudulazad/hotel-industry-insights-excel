@@ -33,7 +33,7 @@ Pivot Tables & Pivot Charts
 - Country-wise revenue visualization
 
 ## Dashboard Preview
-![Dashboard]("https://github.com/Mahmudulazad/hotel-industry-insights-excel/blob/main/hoteldata.jpg")
+![Dashboard](https://github.com/Mahmudulazad/hotel-industry-insights-excel/blob/main/hoteldata.jpg)
 ## Project Insights
 
 - Total Revenue: $29,600,597 across all bookings
