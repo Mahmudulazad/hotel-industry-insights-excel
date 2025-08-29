@@ -18,6 +18,8 @@ It provides insights into revenue trends, booking channels, customer behavior, a
 - Monitor average daily rate (ADR) and length of stay
 
 ## 🗂️ Dataset
+- <a href="https://github.com/Mahmudulazad/hotel-industry-insights-excel/blob/main/Hotel%20Management%20Booking%20Data%20-%20No%20Analysis.xlsx">Data</a>
+
 - Data Source: Sample dataset for hotel booking records
 - File Format: Excel (.xlsx)
 - Fields: Booking Channel, Customer Type, Arrival Date, Daily Rate, Cancellation Rate, Country, Revenue
